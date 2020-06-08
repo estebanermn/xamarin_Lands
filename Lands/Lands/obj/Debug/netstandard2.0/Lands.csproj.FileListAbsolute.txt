@@ -1,0 +1,14 @@
+C:\PruebaXamarin\Lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.deps.json
+C:\PruebaXamarin\Lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.dll
+C:\PruebaXamarin\Lands\Lands\Lands\bin\Debug\netstandard2.0\Lands.pdb
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csproj.CoreCompileInputs.cache
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.AssemblyInfoInputs.cache
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.AssemblyInfo.cs
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.dll
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.pdb
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\Lands.csprojAssemblyReference.cache
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\Views\LandsPage.xaml.g.cs
+C:\PruebaXamarin\Lands\Lands\Lands\obj\Debug\netstandard2.0\XamlC.stamp
